@@ -74,7 +74,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/groupby/buffering-cache.git"
+    "url": "git+https://github.com/xtrctio/buffering-cache.git"
   },
   "scripts": {
     "docs": "jsdoc2md --template README.template --files \"lib/**/*.js\" > README.md",
